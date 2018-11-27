@@ -27,7 +27,7 @@
     abbreviation : "T20:MW",
     group : "DriveThru RPG",
   	url : "https://www.drivethrurpg.com/product/241129/The-Mist-Walker--DD-5e-Class",
-  	date : "2018/11/14"
+  	date : "2018/05/02" // 
   };
 
   // Adds the armor to the drop down menu, but I cannot get addArmor to automatically
